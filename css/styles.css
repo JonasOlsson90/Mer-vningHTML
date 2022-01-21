@@ -95,6 +95,11 @@ ul.features-list {
   margin-bottom: 1em;
 }
 
+.fli-header {
+  font-weight: 800;
+  font-size: 2em;
+}
+
 .bakgrundsgnagare {
   width: 100%;
 }
