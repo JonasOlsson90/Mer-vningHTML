@@ -84,6 +84,9 @@ ul.features-list {
   margin: 0;
   padding-left: 1em;
   display: grid;
+  position: absolute;
+  top: 0.5em;
+  left: 1em;
 }
 
 .features-list-item {
@@ -166,4 +169,7 @@ span {
 
 .container {
   margin-left: 2%;
+  position: relative;
+  text-align: center;
+  color: white;
 }
